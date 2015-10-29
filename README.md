@@ -1,5 +1,8 @@
 ## 通信状況確認サンプルコード
 
+![sample_2.gif](https://qiita-image-store.s3.amazonaws.com/0/15812/26951fb7-5792-9461-feae-660ea8be985e.gif "sample_2.gif")
+
+
 アプリによっては通信状況が悪いと落ちてしまいます。
 その際、Reachabilityという
 
