@@ -1,3 +1,4 @@
+## 通信状況確認サンプルコード
 
 アプリによっては通信状況が悪いと落ちてしまいます。
 その際、Reachabilityという
@@ -121,8 +122,3 @@ class ViewController: UIViewController {
 
 
 ![sample_2.gif](https://qiita-image-store.s3.amazonaws.com/0/15812/26951fb7-5792-9461-feae-660ea8be985e.gif "sample_2.gif")
-
-
-<a href="https://github.com/g08m11/Sample">
-![スクリーンショット 2014-12-07 12.26.44.png](https://qiita-image-store.s3.amazonaws.com/0/15812/e1bb1b5d-b079-0b36-b2c7-0668619daa8f.png)
-</a>
